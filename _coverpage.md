@@ -7,6 +7,6 @@
 [SETCOS](/setcos/)
 [NUCRE](/nucre/README.md )
 [SEDER](/seder/README.md )
-[Fundamentos](/basico/README.md)
+[Fundamentos erro](/basico/README.md)
 
 ![color](#426837)
