@@ -32,6 +32,8 @@
   <img  src="../_media/fundamentos-cores.png">
 </p>
 
+![](../_media/fundamentos-cores.png)
+
 ## Iconografia (tamanhos)
 > Fica definido por padrão os seguintes tamanhos para a iconografia do portal Intranet:
 * Tiles de “Links Rápidos”: *110 x 110 pixels;*
