@@ -29,7 +29,7 @@
 ## Cores
 > As cores a serem utilizadas na Masterpage serão as cores abaixo:
 <p align="center">
-  <img  src="doc-nova-intranet/blob/master/_media/fundamentos-cores.png">
+  <img  src="/master/_media/fundamentos-cores.png">
 </p>
 
 ## Iconografia (tamanhos)
